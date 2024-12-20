@@ -18,7 +18,7 @@ npm run start
 ```
 
 <details>
-  <summary><strong>Modificando a porta</strong></summary><br />
+  <summary><strong>Porta</strong></summary><br />
 
 > A porta padrão é `3000`.
 
